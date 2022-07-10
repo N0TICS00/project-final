@@ -71,7 +71,7 @@ For install this on your machine follow this steps
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/N0TICS00/dag-stech
+   git clone https://github.com/N0TICS00/project-final
    ```
 2. Install NPM packages
    ```sh
