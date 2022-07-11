@@ -55,7 +55,7 @@ function HomePartial() {
         
         <div>
             <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script> 
-                <title>Home</title>
+                
                 <section id="home-page">
                     <nav className="navbar ">
                         <div className="container">
